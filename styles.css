@@ -4,19 +4,20 @@ table.blueTable {
     width: 100%;
     text-align: left;
     border-collapse: collapse;
+    text-align: center;
   }
   table.blueTable td, table.blueTable th {
-    border: 1px solid #AAAAAA;
+    border: 1px solid #ea8818;
     padding: 3px 5px;
   }
   table.blueTable tbody td {
-    font-size: 13px;
+    font-size: 15px;
   }
   table.blueTable tr:nth-child(even) {
-    background: #D0E4F5;
+    background: #829cb3;
   }
   table.blueTable td:nth-child(even) {
-    background: #D0E4F5;
+    background: #c5be70;
   }
   table.blueTable thead {
     background: #1C6EA4;
